@@ -17,7 +17,7 @@ class Spawn extends PluginBase
         
      public function onEnable(): void{
         $this->saveResource("config.yml");
-        $this->getLogger()->info("Spawn successfully enabled by Ruso-OP!");
+        $this->getLogger()->info("Spawn successfully enabled by Michelle!");
         $this->getServer()->getCommandMap()->register("spawn", new CommandSpawn());
          
     }
