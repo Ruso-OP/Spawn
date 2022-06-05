@@ -1,0 +1,7 @@
+name: Spawn
+author: Ruso-OP
+api: 4.0.0
+main: Michelle\Spawn
+version: 0.0.1
+
+commands: /spawn

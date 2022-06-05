@@ -1,0 +1,7 @@
+#Aqui puedes poner lo que quieres que salga en mcpe...
+
+#SpawnMessage aqui puedes poner lo que quieres que te salga en el chat cuando te haces tp...
+SpawnMessage: "&aTe has echo tp al spawn"
+
+#Title esto no es importante solo dejalo asi
+Title: ""
